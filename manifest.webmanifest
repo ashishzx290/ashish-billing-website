@@ -1,0 +1,9 @@
+{
+  "name": "ASHISH MP ONLINE & GAMING ZONE",
+  "short_name": "Ashish Billing",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "description": "Offline-ready billing and 58mm receipt maker"
+}
